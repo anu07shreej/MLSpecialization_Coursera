@@ -1,2 +1,2 @@
 # MLSpecialization_Coursera
-Assignment files for Machine Learning specialization on Coursera 
+Neural network to recognize two handwritten digits, zero and one. 
